@@ -20,7 +20,7 @@ public class SubsetsArray {
         {
             ArrayList<ArrayList<Integer>> res = new ArrayList<>();
 //            System.out.println(ds);
-            res.add(ds);
+            res.add(new ArrayList<>(ds));
             System.out.println(res);
             return res;
         }
