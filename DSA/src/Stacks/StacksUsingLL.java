@@ -1,5 +1,7 @@
 package Stacks;
 
+//Elements are added at the beginning of the stack
+
 public class StacksUsingLL {
 
     //Define the data members
