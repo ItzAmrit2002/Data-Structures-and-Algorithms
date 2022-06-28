@@ -1,4 +1,4 @@
-package BinaryTrees;
+package Trees;
 
 public class SumOfNodes {
 
